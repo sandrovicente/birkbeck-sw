@@ -1,0 +1,2 @@
+This is a notes file.
+Just to test GIT
